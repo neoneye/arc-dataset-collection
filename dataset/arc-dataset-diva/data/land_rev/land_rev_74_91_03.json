@@ -1,0 +1,1 @@
+{"train":[{"input":[[7,4]],"output":[[4,7]]},{"input":[[9,1]],"output":[[1,9]]}],"test":[{"input":[[0,3]],"output":[[3,0]]}]}
