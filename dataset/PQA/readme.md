@@ -10,3 +10,9 @@ It's included in this repo, so you can unzip it if needed.
 - Repo: [qugank/pqa.github.io](https://github.com/qugank/pqa.github.io)
 - Authors: Yonggang Qi, Kai Zhang, Aneeshan Sain, Yi-Zhe Song
 - License: unspecified
+
+# Issues
+
+buggy = {
+  '0b148d64_syn_8': 'unsolvable. The test has been assigned one color, unclear what area to crop',
+}
