@@ -40,3 +40,7 @@ Below are the issues from the original repository along with the corresponding f
 - **e7b06bea**
   - **Issue**: [Minor inconsistency, missing grey cells](https://github.com/fchollet/ARC/pull/85)
   - **Fix**: `e7b06bea_v2.json`
+
+- **469497ad**
+  - **Issue**: [Minor inconsistency, Three pink blocks on the right should be orange](https://github.com/fchollet/ARC/pull/79)
+  - **Fix**: `469497ad_v2.json`
