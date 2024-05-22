@@ -33,6 +33,10 @@ Below are the issues from the original repository along with the corresponding f
   - **Issue**: [Test is unsolvable, wrap around](https://github.com/fchollet/ARC/issues/99)
   - **Fix**: `310f3251_v2.json`
 
+- **7039b2d7**
+  - **Issue**: [Minor inconsistency, wrong number of columns](https://github.com/fchollet/ARC/pull/75)
+  - **Fix**: `7039b2d7_v2.json`
+
 - **bd14c3bf**
   - **Issue**: [Minor inconsistency, top left object should be red](https://github.com/fchollet/ARC/issues/73)
   - **Fix**: `bd14c3bf_v2.json`
