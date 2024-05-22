@@ -18,7 +18,8 @@ Below are the issues from the original repository along with the corresponding f
 
 - **58e15b12**
   - **Issue**: [Test is unsolvable, missing magenta cell when green and aqua lines intersect](https://github.com/fchollet/ARC/issues/86)
-  - **Fix**: `58e15b12_v2.json`
+  - **Fix 2**: `58e15b12_v2.json`
+  - **Fix 3**: commit `84e7398ea44fe906ed1b704814f746b3c6388c17` has a tailing newline. Otherise the same as v2.
 
 - **a8610ef7**
   - **Issue**: [Test is unsolvable, all cyan cells should be grey](https://github.com/fchollet/ARC/issues/89)
