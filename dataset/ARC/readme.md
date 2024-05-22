@@ -44,3 +44,7 @@ Below are the issues from the original repository along with the corresponding f
 - **469497ad**
   - **Issue**: [Minor inconsistency, Three pink blocks on the right should be orange](https://github.com/fchollet/ARC/pull/79)
   - **Fix**: `469497ad_v2.json`
+
+- **6d0160f0**
+  - **Issue**: [Minor inconsistency, Frame color shouldn't interfer with boxes](https://github.com/fchollet/ARC/pull/72)
+  - **Fix**: `6d0160f0_v2.json`
