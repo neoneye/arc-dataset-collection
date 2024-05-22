@@ -29,7 +29,7 @@ Below are the issues from the original repository along with the corresponding f
 
 - **b4a43f3b**
   - **Issue**: [Test is unsolvable, missing 2 green pixels](https://github.com/fchollet/ARC/issues/101)
-  - **Fix**: `b4a43f3c_v2.json` (Note: Verify file name, as it differs from the issue code)
+  - **Fix**: `b4a43f3c_v2.json`
 
 - **310f3251**
   - **Issue**: [Test is unsolvable, wrap around](https://github.com/fchollet/ARC/issues/99)
