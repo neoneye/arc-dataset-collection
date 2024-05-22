@@ -36,3 +36,7 @@ Below are the issues from the original repository along with the corresponding f
 - **dc433765**
   - **Issue**: [Minor inconsistency, redundant train and test](https://github.com/fchollet/ARC/issues/29)
   - **Fix**: `dc433765_v2.json`
+
+- **e7b06bea**
+  - **Issue**: [Minor inconsistency, missing grey cells](https://github.com/fchollet/ARC/pull/85)
+  - **Fix**: `e7b06bea_v2.json`
