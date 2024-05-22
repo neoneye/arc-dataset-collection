@@ -22,8 +22,10 @@ Below are the issues from the original repository along with the corresponding f
   - **Fix 3**: commit `84e7398ea44fe906ed1b704814f746b3c6388c17` has a tailing newline. Otherise the same as v2.
 
 - **a8610ef7**
-  - **Issue**: [Test is unsolvable, all cyan cells should be grey](https://github.com/fchollet/ARC/issues/89)
-  - **Fix**: `a8610ef7_v2.json`
+  - **Issue 2**: [Test is unsolvable, all cyan cells should be grey](https://github.com/fchollet/ARC/issues/89)
+  - **Fix 2**: `a8610ef7_v2.json`
+  - **Issue 3**: [Minor inconsistency. 2 grey cells should be red](https://github.com/fchollet/ARC/commit/b7fd42c53f0c26a807ba0b00e42f858d2c11d125#diff-c9615dc3b4f3586bf08d44c1895878a70fa69e5e86a3b6d6b510fee6fe544b81)
+  - **Fix 3**: `a8610ef7_v3.json`
 
 - **b4a43f3b**
   - **Issue**: [Test is unsolvable, missing 2 green pixels](https://github.com/fchollet/ARC/issues/101)
