@@ -35,6 +35,10 @@ Below are the issues from the original repository along with the corresponding f
   - **Issue**: [Test is unsolvable, wrap around](https://github.com/fchollet/ARC/issues/99)
   - **Fix**: `310f3251_v2.json`
 
+- **c92b942c**
+  - **Issue**: [Minor inconsistency, remove wrap around in training pair 2](https://github.com/fchollet/ARC/commit/b7fd42c53f0c26a807ba0b00e42f858d2c11d125#diff-5449fd633a009a5f87bd1b7c19afd8048470161cc66bfced69ad0ffe8f2487a2)
+  - **Fix**: `c92b942c_v2.json`
+
 - **7039b2d7**
   - **Issue**: [Minor inconsistency, wrong number of columns](https://github.com/fchollet/ARC/pull/75)
   - **Fix**: `7039b2d7_v2.json`
