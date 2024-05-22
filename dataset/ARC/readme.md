@@ -52,3 +52,7 @@ Below are the issues from the original repository along with the corresponding f
 - **6d0160f0**
   - **Issue**: [Minor inconsistency, Frame color shouldn't interfer with boxes](https://github.com/fchollet/ARC/pull/72)
   - **Fix**: `6d0160f0_v2.json`
+
+- **54db823b**
+  - **Issue**: [Minor inconsistency, Swap 2 pixels in first training pair](https://github.com/fchollet/ARC/commit/b7fd42c53f0c26a807ba0b00e42f858d2c11d125#diff-f0f2417d9757edfc08cee5fd123f4fac5a6b6941b20e348db88ca20e4118bd45)
+  - **Fix**: `54db823b_v2.json`
