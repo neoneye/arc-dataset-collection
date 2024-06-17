@@ -92,3 +92,7 @@ Below are the issues from the original repository along with the corresponding f
 - **b230c067**
   - **Issue**: [Minor inconsistency, make less ambiguous, so it doesn't require 2 attempts](https://github.com/fchollet/ARC-AGI/issues/97)
   - **Fix**: `b230c067_v2.json`
+
+- **05a7bcf2**
+  - **Issue**: [Minor inconsistency, incorrect pixels in training pair](https://github.com/fchollet/ARC-AGI/issues/105)
+  - **Fix**: `05a7bcf2_v2.json`
