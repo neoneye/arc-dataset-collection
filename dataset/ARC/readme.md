@@ -96,3 +96,15 @@ Below are the issues from the original repository along with the corresponding f
 - **05a7bcf2**
   - **Issue**: [Minor inconsistency, incorrect pixels in training pair](https://github.com/fchollet/ARC-AGI/issues/105)
   - **Fix**: `05a7bcf2_v2.json`
+
+- **20818e16**
+  - **Issue**: [Minor inconsistency, incorrect size of purple rectangle in training pair](https://github.com/fchollet/ARC-AGI/issues/63)
+  - **Fix**: `20818e16_v2.json`
+
+- **9def23fe**
+  - **Issue**: [Minor inconsistency, two extra red pixels in first training pair](https://github.com/fchollet/ARC-AGI/issues/74)
+  - **Fix**: `9def23fe_v2.json`
+
+- **9edfc990**
+  - **Issue**: [Minor inconsistency, one incorrect pixel in training pair](https://github.com/fchollet/ARC-AGI/issues/77)
+  - **Fix**: `9edfc990_v2.json`
