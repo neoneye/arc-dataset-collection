@@ -1,4 +1,4 @@
-# The original ARC dataset
+# ARC-AGI - The original ARC dataset
 
 - Repo: [fchollet/ARC-AGI](https://github.com/fchollet/ARC-AGI/tree/master/data)
 - Authors: François Chollet
@@ -32,8 +32,14 @@ Below are the issues from the original repository along with the corresponding f
   - **Fix**: `b4a43f3b_v2.json`
 
 - **310f3251**
-  - **Issue**: [Test is unsolvable, wrap around](https://github.com/fchollet/ARC-AGI/issues/99)
+  - **Issue 2**: [Test is unsolvable, wrap around](https://github.com/fchollet/ARC-AGI/issues/99)
   - **Fix**: `310f3251_v2.json`
+  - **Issue 3**: [Test is unsolvable, wrap around](https://github.com/fchollet/ARC-AGI/issues/99)
+  - **Fix**: `310f3251_v3.json`
+
+- **79fb03f4**
+  - **Issue**: [Test is unsolvable, water flow](https://github.com/fchollet/ARC-AGI/issues/100)
+  - **Fix**: `79fb03f4_v2.json`
 
 - **c92b942c**
   - **Issue**: [Minor inconsistency, remove wrap around in training pair 2](https://github.com/fchollet/ARC-AGI/commit/b7fd42c53f0c26a807ba0b00e42f858d2c11d125#diff-5449fd633a009a5f87bd1b7c19afd8048470161cc66bfced69ad0ffe8f2487a2)
@@ -70,3 +76,19 @@ Below are the issues from the original repository along with the corresponding f
 - **b0f4d537**
   - **Issue**: [Minor inconsistency, middle line need move 1px righter](https://github.com/fchollet/ARC-AGI/issues/63)
   - **Fix**: `b0f4d537_v2.json`
+
+- **4852f2fa**
+  - **Issue**: [Minor inconsistency, move one pixel](https://github.com/fchollet/ARC-AGI/issues/94)
+  - **Fix**: `4852f2fa_v2.json`
+
+- **c35c1b4c**
+  - **Issue**: [Minor inconsistency, train output 3 is asymmetric](https://github.com/fchollet/ARC-AGI/issues/96)
+  - **Fix**: `c35c1b4c_v2.json`
+
+- **e6de6e8f**
+  - **Issue**: [Minor inconsistency, misleading training pair, bending the opposite way](https://x.com/fchollet/status/1802448195110457630)
+  - **Fix**: `e6de6e8f_v2.json`
+
+- **b230c067**
+  - **Issue**: [Minor inconsistency, make less ambiguous, so it doesn't require 2 attempts](https://github.com/fchollet/ARC-AGI/issues/97)
+  - **Fix**: `b230c067_v2.json`
