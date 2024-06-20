@@ -108,3 +108,7 @@ Below are the issues from the original repository along with the corresponding f
 - **9edfc990**
   - **Issue**: [Minor inconsistency, one incorrect pixel in training pair](https://github.com/fchollet/ARC-AGI/issues/77)
   - **Fix**: `9edfc990_v2.json`
+
+- **ac0c5833**
+  - **Issue**: [Minor inconsistency, incorrect shape in training pair](https://github.com/fchollet/ARC-AGI/issues/112)
+  - **Fix**: `ac0c5833_v2.json`
