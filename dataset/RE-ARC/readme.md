@@ -1,5 +1,7 @@
 # RE-ARC: Reverse-Engineering the Abstraction and Reasoning Corpus
 
+- [ARC-Interactive easy tasks](https://neoneye.github.io/arc/?dataset=RE-ARC-easy)
+- [ARC-Interactive hard tasks](https://neoneye.github.io/arc/?dataset=RE-ARC-hard)
 - Repo: [RE-ARC](https://github.com/michaelhodel/re-arc)
 - Authors: Michael Hodel
 - License: MIT

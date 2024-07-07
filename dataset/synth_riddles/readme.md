@@ -15,6 +15,7 @@ IMO The majority of tasks are garbage. Too complex for me to verify if they make
 In ARC the biggest canvas is `30x30`. However here some of the tasks have a canvas size that is bigger than `30x30`, such as `eee6d929.json` and `ed7a3761.json` where the output size is `31x1`.
 I found a few good tasks, so I have added those to this repo.
 
+- [ARC-Interactive](https://neoneye.github.io/arc/?dataset=synth_riddles)
 - Repo: [synth_riddles](https://github.com/arc-community/synth_riddles)
 - Authors: Andreas Köpf
 - License: MIT
