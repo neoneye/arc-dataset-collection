@@ -1,0 +1,6 @@
+# ARC-Heavy
+
+- Repo: [barc0/200k_HEAVY_gpt4o-description-gpt4omini-code_generated_problems](https://huggingface.co/datasets/barc0/200k_HEAVY_gpt4o-description-gpt4omini-code_generated_problems)
+- Authors: Wen-Ding Li, Keya Hu, Carter Larsen, Yuqing Wu, Simon Alford, Caleb Woo, Spencer M. Dunn, Hao Tang, Michelangelo Naim, Dat Nguyen, Wei-Long Zheng,
+Zenna Tavares, Yewen Pu, Kevin Ellis
+- License: MIT
