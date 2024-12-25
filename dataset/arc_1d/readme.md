@@ -1,4 +1,4 @@
-# arc\1d by optozorax
+# arc\_1d by optozorax
 
 - [ARC-Interactive](https://neoneye.github.io/arc/?dataset=arc_1d)
 - Repo: [optozorax/arc\_1d](https://github.com/optozorax/arc_1d)
