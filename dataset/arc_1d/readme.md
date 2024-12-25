@@ -1,6 +1,8 @@
 # arc\1d by optozorax
 
+- [ARC-Interactive](https://neoneye.github.io/arc/?dataset=arc_1d)
 - Repo: [optozorax/arc\_1d](https://github.com/optozorax/arc_1d)
+- [visualization](https://optozorax.github.io/arc_1d/)
 - Authors: Ilya Sheprut
 - License: MIT
 
