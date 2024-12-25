@@ -66,7 +66,7 @@ for root, dirs, files in os.walk(tasks_dir):
 
             # Use the current index for the subdir
             current_index = subdir_counters[subdir_name]
-            combined_filename = f"{current_index}.json"
+            combined_filename = f"{subdir_name}_{current_index}.json"
             combined_path = os.path.join(subdir_outpath, combined_filename)
 
             # Write the combined JSON
