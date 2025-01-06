@@ -17,6 +17,8 @@ The `"data"` dir contains a tiny subset of ARC-Heavy. I have cherry picked aroun
 
 - The `data/c` dir contains 300 cherrypicked puzzles from the `100k-gpt4-description-gpt4omini-code_generated_problems`.
 
+- The `data/d` dir contains 300 cherrypicked puzzles from the `100k_gpt4o-mini_generated_problems`.
+
 - [ARC-Interactive - a](https://neoneye.github.io/arc/?dataset=ARC-Heavy-a)
 - [ARC-Interactive - b](https://neoneye.github.io/arc/?dataset=ARC-Heavy-b)
 
