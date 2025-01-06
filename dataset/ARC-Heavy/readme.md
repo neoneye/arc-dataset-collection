@@ -21,6 +21,8 @@ The `"data"` dir contains a tiny subset of ARC-Heavy. I have cherry picked aroun
 
 - [ARC-Interactive - a](https://neoneye.github.io/arc/?dataset=ARC-Heavy-a)
 - [ARC-Interactive - b](https://neoneye.github.io/arc/?dataset=ARC-Heavy-b)
+- [ARC-Interactive - c](https://neoneye.github.io/arc/?dataset=ARC-Heavy-c)
+- [ARC-Interactive - d](https://neoneye.github.io/arc/?dataset=ARC-Heavy-d)
 
 
 ### Directory `data_100k`
