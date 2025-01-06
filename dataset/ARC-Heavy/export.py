@@ -41,6 +41,8 @@ def compress_dir(dirname):
 
 dataset_name = 'data_100k'
 # dataset_name = 'data_suggestfunction_100k'
+# dataset_name = '100k-gpt4-description-gpt4omini-code_generated_problems'
+# dataset_name = '100k_gpt4o-mini_generated_problems'
 file_path = f'{dataset_name}.jsonl'
 
 row_index = -1

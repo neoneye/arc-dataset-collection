@@ -7,20 +7,38 @@
 Zenna Tavares, Yewen Pu, Kevin Ellis
 - License: MIT
 
+### Directory `data`
+
 The `"data"` dir contains a tiny subset of ARC-Heavy. I have cherry picked around 300 of the puzzles, since ARC-Interactive cannot render all thumbnails for all 400.000 puzzles.
 
-### `data_100k`
+- The `data/a` dir contains 300 cherrypicked puzzles from the `data_100k`.
+
+- The `data/b` dir contains 300 cherrypicked puzzles from the `data_suggestfunction_100k`.
+
+- [ARC-Interactive - a](https://neoneye.github.io/arc/?dataset=ARC-Heavy-a)
+- [ARC-Interactive - b](https://neoneye.github.io/arc/?dataset=ARC-Heavy-b)
+
+
+### Directory `data_100k`
 
 This comes from the `data_100k.jsonl` file in this [repo](https://huggingface.co/datasets/barc0/200k_HEAVY_gpt4o-description-gpt4omini-code_generated_problems/tree/main).
 
-The `data/a` dir contains 300 cherrypicked puzzles from the `data_100k`. This is named `Heavy` on basis.ai.
+This is named `Heavy` on basis.ai.
 
-- [ARC-Interactive - a](https://neoneye.github.io/arc/?dataset=ARC-Heavy-a)
-
-### `data_suggestfunction_100k`
+### Directory `data_suggestfunction_100k`
 
 This comes from the `data_suggestfunction_100k.jsonl` file in this [repo](https://huggingface.co/datasets/barc0/200k_HEAVY_gpt4o-description-gpt4omini-code_generated_problems/tree/main).
 
-The `data/b` dir contains 300 cherrypicked puzzles from the `data_suggestfunction_100k`. This is named `Heavy with suggestions` on basis.ai.
+This is named `Heavy with suggestions` on basis.ai.
 
-- [ARC-Interactive - b](https://neoneye.github.io/arc/?dataset=ARC-Heavy-b)
+### Directory `100k-gpt4-description-gpt4omini-code_generated_problems`
+
+This comes from the `100k-gpt4-description-gpt4omini-code_generated_problems.jsonl` file in this [repo](https://huggingface.co/datasets/barc0/100k-gpt4-description-gpt4omini-code_generated_problems).
+
+This is named `GPT-4` on basis.ai.
+
+### Directory `100k_gpt4o-mini_generated_problems`
+
+This comes from the `100k_gpt4o-mini_generated_problems.jsonl` file in this [repo](https://huggingface.co/datasets/barc0/100k-gpt4omini-description-gpt4omini-code_generated_problems).
+
+This is named `GPT4o-mini` on basis.ai.
