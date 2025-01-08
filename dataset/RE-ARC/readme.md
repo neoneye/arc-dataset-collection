@@ -2,6 +2,7 @@
 
 - [ARC-Interactive easy tasks](https://neoneye.github.io/arc/?dataset=RE-ARC-easy)
 - [ARC-Interactive hard tasks](https://neoneye.github.io/arc/?dataset=RE-ARC-hard)
+- [optozorax visualization of RE-ARC](https://optozorax.github.io/re-arc/)
 - Repo: [RE-ARC](https://github.com/michaelhodel/re-arc)
 - Authors: Michael Hodel
 - License: MIT
