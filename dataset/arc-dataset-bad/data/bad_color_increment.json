@@ -1,0 +1,1 @@
+{"train": [{"input": [[0]], "output": [[1]]}, {"input": [[1]], "output": [[2]]}, {"input": [[2]], "output": [[3]]}], "test": [{"input": [[3]], "output": [[4]]}], "comment": "The solver should not do arithmetic on the color values. Here the input value gets incremented."}
