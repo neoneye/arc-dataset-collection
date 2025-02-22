@@ -1,0 +1,1 @@
+{"train": [{"input": [[0]], "output": [[0]]}, {"input": [[1]], "output": [[1]]}, {"input": [[2]], "output": [[2]]}], "test": [{"input": [[0]], "output": [[9]]}], "comment": "The transformation is to copy the input to the output. However in the test, the output is not a copy of the input."}
